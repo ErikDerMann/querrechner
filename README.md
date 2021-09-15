@@ -50,7 +50,7 @@
 				if (vQuersumme % vTeilen == 0)	{
 				
 				
-				vAusgabe = vAusgabe + "<tr><td>" + vStart + "</td><td>" + vQuadrat + "</td><td style="background-color:green">" + vQuersumme + "</td></tr>";
+				vAusgabe = vAusgabe + "<tr><td>" + vStart + "</td><td>" + vQuadrat + "</td><td style=background-color:green>" + vQuersumme + "</td></tr>";
 				
 			} else {
 				
